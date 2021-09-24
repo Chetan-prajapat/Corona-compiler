@@ -9,7 +9,7 @@ Demo link : https://corona-compiler.eu-gb.cf.appdomain.cloud/
 # Shortcut 
 
 
-# ######### The Corona compiler was made during the quarantine days. ##################
+The Corona compiler was made during the quarantine days.
 
 # Warning ! : It is a personal project so please don't forget to give credits :)
 
